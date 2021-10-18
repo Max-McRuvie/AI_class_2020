@@ -1,5 +1,5 @@
 # AI_class_2020
-This is the assessment coursework for my AI class at Napier in 2020. Coursework description:
+This is the coursework for my AI class at Napier in 2020. Coursework description:
 
 "A robot has to navigate through a series of small underground caverns connected by straight 
 tunnels. Some tunnels can only be navigated in one direction. The robot is given a map of the 
